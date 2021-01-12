@@ -4,7 +4,7 @@ Apps to add notes
 
 1. HomeScreen
 
-![WhatsApp Image 2021-01-12 at 11 38 15 AM(2)](https://user-images.githubusercontent.com/43025057/104276476-ee1df600-54ca-11eb-8eab-630fd608aed3.jpeg)\n
+![WhatsApp Image 2021-01-12 at 11 38 15 AM(2)](https://user-images.githubusercontent.com/43025057/104276476-ee1df600-54ca-11eb-8eab-630fd608aed3.jpeg)
 
 
 2. Add New Note
@@ -15,15 +15,12 @@ Apps to add notes
 ![WhatsApp Image 2021-01-12 at 11 38 15 AM(3)](https://user-images.githubusercontent.com/43025057/104276471-ec543280-54ca-11eb-8904-3abcdfb36ca4.jpeg)
 
 
-
 4. Menu
 ![WhatsApp Image 2021-01-12 at 11 38 15 AM](https://user-images.githubusercontent.com/43025057/104276482-ef4f2300-54ca-11eb-9c44-0ac28238d620.jpeg)
 
 
-
 5.Dark theme
 ![WhatsApp Image 2021-01-12 at 11 48 06 AM](https://user-images.githubusercontent.com/43025057/104277070-2b36b800-54cc-11eb-9ff0-288e39cfae02.jpeg)
-
 
 
 6. Sharing
