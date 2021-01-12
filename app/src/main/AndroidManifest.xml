@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.myNotes">
+    package="com.example.mitask">
 
     <application
         android:allowBackup="true"
@@ -9,13 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/HomeTheme">
-        <activity android:name="com.example.myNotes.Ui.SettingActivity"></activity>
+        <activity android:name=".Ui.SettingActivity"></activity>
         <activity
-            android:name="com.example.myNotes.Ui.NoteActivity"
-            android:parentActivityName="com.example.myNotes.Ui.MainActivity"></activity>
+            android:name=".Ui.NoteActivity"
+            android:parentActivityName=".Ui.MainActivity"></activity>
 
         <activity
-            android:name="com.example.myNotes.Ui.MainActivity"
+            android:name=".Ui.MainActivity"
             android:launchMode="singleTop">
         <intent-filter>
             <action android:name="android.intent.action.MAIN"/>

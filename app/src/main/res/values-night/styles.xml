@@ -7,7 +7,7 @@
         <item name="backgroundcolor">#303030</item>
         <item name="cardbackground">#424242</item>
         <item name="textcolor">#ffffff</item>
-        <item name="mytintcolor">#FFEB3B</item>
+        <item name="tintcolor">#FFEB3B</item>
         <item name="buttoncolor">#2196F3</item>
         <item name="seperatorcolor">#ffffff</item>
         <item name="actionModeBackground">@color/ActionModeDark</item>
