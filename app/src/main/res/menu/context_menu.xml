@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context = "com.example.myNotes.Ui.NoteActivity"
+    >
+
+    <item android:id="@+id/select_none"
+        android:title="None"
+        android:icon="@drawable/select_none_icon"
+        />
+    <item android:id="@+id/select_all"
+        android:title="All"
+        android:icon="@drawable/select_all_icon"
+        />
+    <item android:id="@+id/delete"
+        android:title="delete"
+        android:icon="@drawable/ic_baseline_delete"
+        />
+
+
+</menu>

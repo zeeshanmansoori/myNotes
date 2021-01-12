@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ds">
+        <attr name="textcolor" format="color"/>
+        <attr name="backgroundcolor" format="color"/>
+        <attr name="mytintcolor" format="color"/>
+        <attr name="buttoncolor" format="color"/>
+        <attr name="cardbackground" format="color"/>
+        <attr name="seperatorcolor" format="color"/>
+        <attr name="colorSurface" format="color"/>
+        <attr name="toolbarcolor" format="color"/>
+
+    </declare-styleable>
+
+</resources>

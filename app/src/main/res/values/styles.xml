@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="HomeTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#D81B60</item>
+        <item name="colorAccent">#E85E8D</item>
+        <item name="backgroundcolor">#3BDCD5D5</item>
+        <item name="cardbackground">#F8F5F5</item>
+        <item name="textcolor">#BE000000</item>
+        <item name="mytintcolor">#BCFFDE09</item>
+        <item name="buttoncolor">#2196F3</item>
+        <item name="seperatorcolor">#000000</item>
+        <item name="actionModeBackground">@color/ActionModeLight</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="colorSurface">#ffff</item>
+        <item name="toolbarcolor">#3BDCD5D5</item>
+
+    </style>
+
+</resources>
