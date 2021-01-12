@@ -7,7 +7,6 @@ Apps to add notes
 ![WhatsApp Image 2021-01-12 at 11 38 15 AM(2)](https://user-images.githubusercontent.com/43025057/104276476-ee1df600-54ca-11eb-8eab-630fd608aed3.jpeg)
 
 
-
 2. Add New Note
 ![WhatsApp Image 2021-01-12 at 11 38 15 AM(1)](https://user-images.githubusercontent.com/43025057/104276478-eeb68c80-54ca-11eb-854e-2e2c93b2d45c.jpeg)
 
